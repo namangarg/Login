@@ -1,0 +1,13 @@
+com\registration\dao\UserDao.class
+com\registration\dao\UserDaoImpl.class
+com\registration\model\User.class
+com\registration\controller\UserController.class
+com\registration\service\UserService.class
+com\registration\service\UserServiceImpl.class
+com\first\LoginDemo\App.class
+com\notifi\response\TestResponse.class
+com\registration\config\TestConfig.class
+com\registration\config\MyWebAppInitializer.class
+com\registration\config\AppConfig.class
+com\registration\config\WebConfig.class
+com\registration\model\UserInfo.class
